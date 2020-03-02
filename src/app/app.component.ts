@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'my-dream-app';
+  WelcomeMsg='I am ISSC student';
+  student={
+    name:'Mugdha',
+    age:21
+  };
+  students=['Rohan','Satish','Shreyas','Ajay','Akash','Vikas'];
 }
